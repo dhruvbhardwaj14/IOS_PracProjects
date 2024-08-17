@@ -1,0 +1,45 @@
+[submodule "Animation"]
+	path = Animation
+	url = https://github.com/dhruvbhardwaj14/Animation
+[submodule "BetterRest"]
+	path = BetterRest
+	url = https://github.com/dhruvbhardwaj14/BetterRest
+[submodule "BookWorm"]
+	path = BookWorm
+	url = https://github.com/dhruvbhardwaj14/BookWorm.git
+[submodule "BucketList"]
+	path = BucketList
+	url = https://github.com/dhruvbhardwaj14/Bucketlist.git
+[submodule "Bucketlist"]
+	path = Bucketlist
+	url = https://github.com/dhruvbhardwaj14/Bucketlist.git
+[submodule "CoreDataProject"]
+	path = CoreDataProject
+	url = https://github.com/dhruvbhardwaj14/CoreDataProject
+[submodule "CupcakeCorner"]
+	path = CupcakeCorner
+	url = https://github.com/dhruvbhardwaj14/CupcakeCorner
+[submodule "Drawing"]
+	path = Drawing
+	url = https://github.com/dhruvbhardwaj14/Drawing
+[submodule "FlashZilla"]
+	path = FlashZilla
+	url = https://github.com/dhruvbhardwaj14/FlashZilla
+[submodule "GuessTheFlag"]
+	path = GuessTheFlag
+	url = https://github.com/dhruvbhardwaj14/GuessTheFlag.git
+[submodule "HotProspects"]
+	path = HotProspects
+	url = https://github.com/dhruvbhardwaj14/HotProspects.git
+[submodule "iExpense"]
+	path = iExpense
+	url = https://github.com/dhruvbhardwaj14/iExpense.git
+[submodule "Instafilter"]
+	path = Instafilter
+	url = https://github.com/dhruvbhardwaj14/Instafilter.git
+[submodule "LayoutAndGeometry"]
+	path = LayoutAndGeometry
+	url = https://github.com/dhruvbhardwaj14/LayoutAndGeometry.git
+[submodule "MoonShot"]
+	path = MoonShot
+	url = https://github.com/dhruvbhardwaj14/MoonShot
